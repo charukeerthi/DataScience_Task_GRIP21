@@ -1,4 +1,6 @@
-# ML_Task_GRIP21
+# Data Science and Business Analytics (GRIPoctober21)
+
+### By - Charukeerthi N Bhavikatti
 
 - The Task1- Predict the percentage of student based on the no. of study hours. Dataset link for Task1- http://bit.ly/w-data 
 
