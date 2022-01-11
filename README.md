@@ -3,9 +3,9 @@
  <h1 align="center">Data Science and Business Analytics (GRIPoctober21)</h1>
  <p align="center"> By - Charukeerthi N Bhavikatti
 
- - Task1 - Predict the percentage of student based on the no. of study hours.
+ - Task1 - Predict the percentage of student based on the no. of study hours. Dataset link for Task1- http://bit.ly/w-data
 
- - Task2 - From the given 'Iris' Dataset, predict the optimum number of cluster and represent it visually.
+ - Task2 - From the given 'Iris' Dataset, predict the optimum number of cluster and represent it visually. Dataset link for Task2- https://bit.ly/3kXTdox
  </p>
 </p>
 
