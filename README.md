@@ -48,7 +48,7 @@ There are 3 columns in the dataset, however the first column name is not a good 
 
 1. Download the file
 
-2. Extract the file and copy Heart Disease Prediction folder
+2. Extract the file and copy DataScience_Task_GRIP21 folder
 
 3. Type `cmd` in the Address Bar to open command prompt
 
@@ -106,7 +106,7 @@ There are 6 columns in the dataset, however the first column name is not a good 
 
 1. Download the file
 
-2. Extract the file and copy Heart Disease Prediction folder
+2. Extract the file and copy DataScience_Task_GRIP21 folder
 
 3. Type `cmd` in the Address Bar to open command prompt
 
