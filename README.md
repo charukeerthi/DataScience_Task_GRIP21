@@ -44,7 +44,7 @@ There are 3 columns in the dataset, however the first column name is not a good 
 - Libraries : `pandas, numpy, matplotlib, seaborn`
 - Web Browser : `Mozilla, Google Chrome, IE8, OPERA`
 
-## How to run the K-means Clustering of University Project
+## How to run the Student Percentage Prediction Project
 
 1. Download the file
 
