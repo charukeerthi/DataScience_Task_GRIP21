@@ -13,7 +13,7 @@
 
 # Student Percentage Prediction
 
-Student Percentage Prediction is a Data Science project. It is a project where we are going to provide accurate prediction and insights about the given `student data`. Here the prediction occurs using Supervised Machine Learning so it uses Simple linear Regression to build a model to predict percentage score of students when the studying hours is given as input.
+Student Percentage Prediction is a Data Science project. It is a project where we are going to provide accurate prediction and insights about the given `Student data`. Here the prediction occurs using Supervised Machine Learning so it uses Simple linear Regression to build a model to predict percentage score of students when the studying hours is given as input.
 
 ## Introduction
 
