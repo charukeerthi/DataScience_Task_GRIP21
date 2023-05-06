@@ -1,5 +1,5 @@
 <p align="center">
- <img width="225px" src="https://media-exp1.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_200_200/0/1519895156650?e=1649894400&v=beta&t=XfOQAqGehBADx8cwNgoJDXUrqm-nfPP8kfyK_olFRBc" align="center" alt="GitHub Readme Stats" />
+ <img width="225px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">Data Science and Business Analytics (GRIPoctober21)</h1>
  <p align="center"> By - Charukeerthi N Bhavikatti
 
